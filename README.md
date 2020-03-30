@@ -2,7 +2,7 @@
 
 ----
 
-The aim of this project is to serve as a simple example of implementing tensorflow model to be used with the [sagemaker-pipeline](https://github.com/MustafaWaheed91/sagemaker-pipeline) project.
+The aim of this project is cloned from online. It is to serve as a simple example of implementing tensorflow model to be used with the [sagemaker-pipeline](https://github.com/MustafaWaheed91/sagemaker-pipeline) project.
 
 ### Prerequisites
 
